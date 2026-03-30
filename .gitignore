@@ -1,0 +1,10 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+skill_trends.png
+skill_report.csv
+*.pdf
+.env
