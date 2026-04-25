@@ -26,7 +26,7 @@ SKILL_KEYWORDS = [
     "siem", "firewall", "ids", "ips", "encryption", "owasp", "ctf",
 
     # Cloud / DevOps
-    "aws", "azure", "gcp", "docker", "kubernetes", "ci/cd", "terraform",
+    "aws", "azure", "gcp", "docker", "kubernetes", "ci/cd", "terraform" ,
     "linux", "git", "github", "jenkins",
 
     # Web / General

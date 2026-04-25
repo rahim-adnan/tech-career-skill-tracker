@@ -1,0 +1,9 @@
+streamlit
+pdfminer.six
+spacy
+requests
+beautifulsoup4
+lxml
+pandas
+matplotlib
+seaborn
