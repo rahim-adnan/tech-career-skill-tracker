@@ -6,6 +6,14 @@ from job_fetcher import JobFetcher
 from skill_extractor import SkillExtractor
 from visualizer import SkillVisualizer
 
+# ── Wakeup notice ──────────────────────────────────────────
+st.info(
+    "⏳ **First load?** This app is hosted on Render's free tier and may have "
+    "been sleeping. If anything looks slow, give it 30–60 seconds to wake up. "
+    "[▶ Watch demo video](YOUR_YOUTUBE_LINK_HERE) while you wait!"
+)
+# ───────────────────────────────────────────────────────────
+
 st.title("🎯 Tech Career Skill Tracker")
 st.write("Upload your CV and see which skills employers want!")
 
