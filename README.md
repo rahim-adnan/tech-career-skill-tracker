@@ -9,12 +9,6 @@ A web app that reads your CV, fetches live job postings, and shows you exactly w
 
 ---
 
-## 🚀 Live Demo
-
-[👉 Click here to try it live](https://tech-career-skill-tracker.onrender.com)
-
----
-
 ## 🚀 What It Does
 
 1. **Upload your CV** — supports `.pdf` and `.txt` formats
